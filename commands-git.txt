@@ -3,3 +3,5 @@ git clone https://github.com/jeffry-khalife/git-begins.git
 git commit -m "first commit"
 git branch -M main
 git push -u origin main
+
+git pull origin
